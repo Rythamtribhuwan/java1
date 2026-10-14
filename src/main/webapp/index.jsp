@@ -6,7 +6,7 @@
 </head>
 <body>
 
-    <h1>filpkartApp</h1>
+    <h1>filpkart App</h1>
 
     <h2>Home Page</h2>
 
