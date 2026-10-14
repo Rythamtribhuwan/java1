@@ -1,19 +1,19 @@
-jsp
+
 <!DOCTYPE html>
 <html>
 <head>
-    <title>instagram - Home</title>
+    <title>filpkart - Home</title>
 </head>
 <body>
 
-    <h1>instagram App</h1>
+    <h1>filpkartApp</h1>
 
     <h2>Home Page</h2>
 
-    <p>Welcome to my Instagram-like application!</p>
+    <h3>Welcome to my filpkart application!</h3>
 
      <h2>search page</h2>
-     <h2>profile page</h2>
+     <h2>product details page </h2>
 
     <h1> Version: 3.0.0</h1>
 
