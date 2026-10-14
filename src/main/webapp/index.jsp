@@ -12,9 +12,10 @@ jsp
 
     <p>Welcome to my Instagram-like application!</p>
 
-    <p>Home Page Version: 2.0.0</p>
-
      <h2>search page</h2>
+     <h2>profil page</h2>
+
+    <p>Home Page Version: 3.0.0</p>
 
 </body>
 </html>
