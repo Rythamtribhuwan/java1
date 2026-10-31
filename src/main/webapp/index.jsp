@@ -2,11 +2,11 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>facebook - Home</title>
+    <title>facebook app</title>
 </head>
 <body>
 
-    <h1>facebook App</h1>
+    <h1>This is my facebook app</h1>
 
     <h2>Home Page</h2>
 
